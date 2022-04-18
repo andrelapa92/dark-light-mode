@@ -1,19 +1,13 @@
-.conteudo {
+.default-mode {
     position: absolute;
     width: 100%;
     height: 100%;
     background: white;
-}
-
-.fundo-dark {
-    background: #252526;
-}
-
-#texto-mode {
     color: #252526;
 }
 
-.texto-dark {
+.dark-mode {
+    background: #252526;
     color: white;
 }
 
